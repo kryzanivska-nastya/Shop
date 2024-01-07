@@ -1,0 +1,22 @@
+<div class="card" >
+    <img class="img" [src]="productItem.imageUrl" >
+    <div class="card-body">
+        <p class="card-text"><strong>{{ productItem.price | currency:'GRN' }}</strong> 
+          <i *ngIf='addedToWishList' class="fas fa-heart" (click)="handleRemoveFromWishList()"></i>
+          <i *ngIf='!addedToWishList' class="far fa-heart"(click)="handleAddToWishList()"></i>
+        </p>
+      <p class="card-text">{{ productItem.description | slice: 0: 36}}...</p>
+      
+
+      
+      <div class="d-flex">
+        <div class="btn-group">
+          <button type="button" 
+          class="btn" (click)="handleAddToCard()">
+          Add to cart</button>
+          <button type="button" class="btn">View details</button>
+        </div>
+        
+      </div>
+    </div>
+</div>

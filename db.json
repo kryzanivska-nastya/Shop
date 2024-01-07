@@ -1,0 +1,396 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Good guitar 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "Good guitar 2",
+      "description": "Donec feugiat urna non leo viverra, a semper sapien mattis. Curabitur sodales posuere justo in semper. Nunc eget varius orci. Vestibulum tincidunt ligula id cursus rutrum.",
+      "imageUrl": "https://www.littletikes.co.uk/wp-content/uploads/2021/07/654800-My-Real-Jam-Electric-Guitar-FMA-0001-1.jpg",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "Good guitar 3",
+      "description": "Vestibulum rhoncus massa iaculis enim tempus pellentesque. Vestibulum feugiat felis eu justo eleifend, pharetra bibendum lorem venenatis.",
+      "imageUrl": "https://breedlovemusic.com/wp-content/uploads/2021/06/breedlove-sideways-graphic-eco-collection3.png",
+      "price": 350
+    },
+    {
+      "id": 4,
+      "name": "Good guitar 4",
+      "description": "Etiam viverra vitae erat ut pretium. Sed venenatis eget nulla sodales posuere. Vestibulum eget suscipit arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0249/3743/1126/products/BQ3A1391_540x.jpg?v=1661357784",
+      "price": 500
+    }
+  ],
+  "wishList": [
+    {
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Good guitar 2",
+        "description": "Donec feugiat urna non leo viverra, a semper sapien mattis. Curabitur sodales posuere justo in semper. Nunc eget varius orci. Vestibulum tincidunt ligula id cursus rutrum.",
+        "imageUrl": "https://www.littletikes.co.uk/wp-content/uploads/2021/07/654800-My-Real-Jam-Electric-Guitar-FMA-0001-1.jpg",
+        "price": 100
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Good guitar 3",
+        "description": "Vestibulum rhoncus massa iaculis enim tempus pellentesque. Vestibulum feugiat felis eu justo eleifend, pharetra bibendum lorem venenatis.",
+        "imageUrl": "https://breedlovemusic.com/wp-content/uploads/2021/06/breedlove-sideways-graphic-eco-collection3.png",
+        "price": 350
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Good guitar 3",
+        "description": "Vestibulum rhoncus massa iaculis enim tempus pellentesque. Vestibulum feugiat felis eu justo eleifend, pharetra bibendum lorem venenatis.",
+        "imageUrl": "https://breedlovemusic.com/wp-content/uploads/2021/06/breedlove-sideways-graphic-eco-collection3.png",
+        "price": 350
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Good guitar 2",
+        "description": "Donec feugiat urna non leo viverra, a semper sapien mattis. Curabitur sodales posuere justo in semper. Nunc eget varius orci. Vestibulum tincidunt ligula id cursus rutrum.",
+        "imageUrl": "https://www.littletikes.co.uk/wp-content/uploads/2021/07/654800-My-Real-Jam-Electric-Guitar-FMA-0001-1.jpg",
+        "price": 100
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 12
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Good guitar 2",
+        "description": "Donec feugiat urna non leo viverra, a semper sapien mattis. Curabitur sodales posuere justo in semper. Nunc eget varius orci. Vestibulum tincidunt ligula id cursus rutrum.",
+        "imageUrl": "https://www.littletikes.co.uk/wp-content/uploads/2021/07/654800-My-Real-Jam-Electric-Guitar-FMA-0001-1.jpg",
+        "price": 100
+      },
+      "id": 13
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Good guitar 3",
+        "description": "Vestibulum rhoncus massa iaculis enim tempus pellentesque. Vestibulum feugiat felis eu justo eleifend, pharetra bibendum lorem venenatis.",
+        "imageUrl": "https://breedlovemusic.com/wp-content/uploads/2021/06/breedlove-sideways-graphic-eco-collection3.png",
+        "price": 350
+      },
+      "id": 14
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 15
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 16
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Good guitar 2",
+        "description": "Donec feugiat urna non leo viverra, a semper sapien mattis. Curabitur sodales posuere justo in semper. Nunc eget varius orci. Vestibulum tincidunt ligula id cursus rutrum.",
+        "imageUrl": "https://www.littletikes.co.uk/wp-content/uploads/2021/07/654800-My-Real-Jam-Electric-Guitar-FMA-0001-1.jpg",
+        "price": 100
+      },
+      "id": 17
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 18
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 19
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 20
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 21
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 22
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 23
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 24
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 25
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 26
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Good guitar 2",
+        "description": "Donec feugiat urna non leo viverra, a semper sapien mattis. Curabitur sodales posuere justo in semper. Nunc eget varius orci. Vestibulum tincidunt ligula id cursus rutrum.",
+        "imageUrl": "https://www.littletikes.co.uk/wp-content/uploads/2021/07/654800-My-Real-Jam-Electric-Guitar-FMA-0001-1.jpg",
+        "price": 100
+      },
+      "id": 27
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 28
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Good guitar 2",
+        "description": "Donec feugiat urna non leo viverra, a semper sapien mattis. Curabitur sodales posuere justo in semper. Nunc eget varius orci. Vestibulum tincidunt ligula id cursus rutrum.",
+        "imageUrl": "https://www.littletikes.co.uk/wp-content/uploads/2021/07/654800-My-Real-Jam-Electric-Guitar-FMA-0001-1.jpg",
+        "price": 100
+      },
+      "id": 29
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Good guitar 4",
+        "description": "Etiam viverra vitae erat ut pretium. Sed venenatis eget nulla sodales posuere. Vestibulum eget suscipit arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+        "imageUrl": "https://cdn.shopify.com/s/files/1/0249/3743/1126/products/BQ3A1391_540x.jpg?v=1661357784",
+        "price": 500
+      },
+      "id": 30
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Good guitar 2",
+        "description": "Donec feugiat urna non leo viverra, a semper sapien mattis. Curabitur sodales posuere justo in semper. Nunc eget varius orci. Vestibulum tincidunt ligula id cursus rutrum.",
+        "imageUrl": "https://www.littletikes.co.uk/wp-content/uploads/2021/07/654800-My-Real-Jam-Electric-Guitar-FMA-0001-1.jpg",
+        "price": 100
+      },
+      "id": 31
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 32
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 33
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Good guitar 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dolor vel sem luctus blandit at non nunc. Duis a dignissim ligula, eget porttitor augue. Sed dictum libero urna, et ornare libero volutpat at.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvzXOzLY_PQTvRAtcrIfDLYEvMvokJIFmtu3dewkvTUTFjrzkDOHfY5XTV2JBAMbn00A&usqp=CAU",
+        "price": 299
+      },
+      "id": 34
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

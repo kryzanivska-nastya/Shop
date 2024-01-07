@@ -1,0 +1,17 @@
+<!-- hide -->
+<div *ngIf = 'cartItems.length === 0' class="alert-info">Your Cart is empty</div> 
+
+<ul *ngIf = 'cartItems.length > 0' class="list-group">
+<!-- show -->
+
+    <li class="list-group-item" *ngFor="let item of cartItems; let myIndex=index;">
+        
+      
+        
+        <app-cart-item [cartItem]="item"></app-cart-item><button class="removeButton" (click)="removeItem(myIndex)">x</button>
+        
+    </li>
+    <li class="list-group-items">
+        <strong>Total:<p></p> {{  cartTotal  | currency:'GRN' }}</strong>
+    </li>
+</ul>

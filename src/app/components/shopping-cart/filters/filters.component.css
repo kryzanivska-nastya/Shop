@@ -1,0 +1,46 @@
+
+form{
+    position: relative;
+    left: -290px;
+    top: 20px;
+   
+}
+
+input{
+    border-bottom: 1px solid grey;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+button {
+    border: none;
+    color: hsl(0deg 0% 100%);
+    padding: 4px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   
+   
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5%;
+
+  }
+  
+  button {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #000000;
+  }
+  
+  button:hover {
+    background-color: #000000;
+    color: white;
+  }
+  
+
+  .card-header{
+    position: relative;
+    left:  -290px;
+  }
